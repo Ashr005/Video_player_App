@@ -16,6 +16,7 @@
 		7FF006782BB2689A00AC5A9E /* Vid_EOTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF006772BB2689A00AC5A9E /* Vid_EOTests.swift */; };
 		7FF006822BB2689A00AC5A9E /* Vid_EOUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF006812BB2689A00AC5A9E /* Vid_EOUITests.swift */; };
 		7FF006842BB2689A00AC5A9E /* Vid_EOUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF006832BB2689A00AC5A9E /* Vid_EOUITestsLaunchTests.swift */; };
+		7FF006912BB7944600AC5A9E /* main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FF006902BB7944600AC5A9E /* main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7FF0067D2BB2689A00AC5A9E /* Vid_EOUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Vid_EOUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FF006812BB2689A00AC5A9E /* Vid_EOUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vid_EOUITests.swift; sourceTree = "<group>"; };
 		7FF006832BB2689A00AC5A9E /* Vid_EOUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vid_EOUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7FF006902BB7944600AC5A9E /* main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				7FF006692BB2689A00AC5A9E /* Assets.xcassets */,
 				7FF0066B2BB2689A00AC5A9E /* LaunchScreen.storyboard */,
 				7FF0066E2BB2689A00AC5A9E /* Info.plist */,
+				7FF006902BB7944600AC5A9E /* main.storyboard */,
 			);
 			path = Vid_EO;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				7FF0066D2BB2689A00AC5A9E /* LaunchScreen.storyboard in Resources */,
 				7FF0066A2BB2689A00AC5A9E /* Assets.xcassets in Resources */,
 				7FF006682BB2689900AC5A9E /* Main.storyboard in Resources */,
+				7FF006912BB7944600AC5A9E /* main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

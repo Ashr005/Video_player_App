@@ -17,6 +17,7 @@
 		7FF006822BB2689A00AC5A9E /* Vid_EOUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF006812BB2689A00AC5A9E /* Vid_EOUITests.swift */; };
 		7FF006842BB2689A00AC5A9E /* Vid_EOUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FF006832BB2689A00AC5A9E /* Vid_EOUITestsLaunchTests.swift */; };
 		7FF006912BB7944600AC5A9E /* main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FF006902BB7944600AC5A9E /* main.storyboard */; };
+		7FF006932BBADE5B00AC5A9E /* Movie on 01-04-2024 at 13.19.mov in Resources */ = {isa = PBXBuildFile; fileRef = 7FF006922BBADE5B00AC5A9E /* Movie on 01-04-2024 at 13.19.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		7FF006812BB2689A00AC5A9E /* Vid_EOUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vid_EOUITests.swift; sourceTree = "<group>"; };
 		7FF006832BB2689A00AC5A9E /* Vid_EOUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vid_EOUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		7FF006902BB7944600AC5A9E /* main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = main.storyboard; sourceTree = "<group>"; };
+		7FF006922BBADE5B00AC5A9E /* Movie on 01-04-2024 at 13.19.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "Movie on 01-04-2024 at 13.19.mov"; path = "../../../Pictures/Photo Booth Library/Pictures/Movie on 01-04-2024 at 13.19.mov"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				7FF006662BB2689900AC5A9E /* Main.storyboard */,
 				7FF006692BB2689A00AC5A9E /* Assets.xcassets */,
 				7FF0066B2BB2689A00AC5A9E /* LaunchScreen.storyboard */,
+				7FF006922BBADE5B00AC5A9E /* Movie on 01-04-2024 at 13.19.mov */,
 				7FF0066E2BB2689A00AC5A9E /* Info.plist */,
 				7FF006902BB7944600AC5A9E /* main.storyboard */,
 			);
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7FF0066D2BB2689A00AC5A9E /* LaunchScreen.storyboard in Resources */,
+				7FF006932BBADE5B00AC5A9E /* Movie on 01-04-2024 at 13.19.mov in Resources */,
 				7FF0066A2BB2689A00AC5A9E /* Assets.xcassets in Resources */,
 				7FF006682BB2689900AC5A9E /* Main.storyboard in Resources */,
 				7FF006912BB7944600AC5A9E /* main.storyboard in Resources */,
